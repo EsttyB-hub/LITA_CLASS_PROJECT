@@ -63,6 +63,7 @@ The tools used are:
 - South East: This region also recorded lower revenue in year 2015 compared to year 2014.
 - South South: This region also shows a significant drop in revenue in year 2015 compare to preious year.
 - South West: This region was the second best in revenue generation in year 2014 but there was a decline in revenue in year 2015. The reasons might be because of increased in competitors or consumers' change in taste.
+  
 In short, the revenue recorded in each region decline in year 2015 compared to year 2014 which suggested a noticeable challenge is making/improving sales.
 
 
