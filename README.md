@@ -43,17 +43,31 @@ The tools used are:
 
 ![Screenshot (40)](https://github.com/user-attachments/assets/ae0e563f-f721-4219-bb29-4539e1a3dfb7)
 
-####Charts for Year 2014 for Comparison
+#### Charts for Year 2014 for Comparison
+
+![Screenshot (54)](https://github.com/user-attachments/assets/5c4e017b-314b-43d2-a4c5-10b7117fad6c)
+
+![Screenshot (55)](https://github.com/user-attachments/assets/982d6f2a-656a-4489-aabf-c2291dd51153)
+
+#### Charts for Year 2015
 
 ![Screenshot (57)](https://github.com/user-attachments/assets/8bf562e5-ac24-416d-9f8c-f6362920312f)
 
 ![Screenshot (56)](https://github.com/user-attachments/assets/267652dd-cfbc-45e3-8e5a-ce93b32c01f8)
 
-####Charts for Year 2015
+#### Conclusion
 
-![Screenshot (54)](https://github.com/user-attachments/assets/5c4e017b-314b-43d2-a4c5-10b7117fad6c)
+- North Central: There was a sharp decline in revenue in 2015 compare to 2014. This low turnout may indicate increase in competition or security problem. This required effective marketing to boost the revenue in that region if the reason is the former.
+- North East: In 2014, this region recorded the highest revenue but it dropped by more than 50% in Year 2015. This significant decline in revenue poses a major concern which requires immediate and adequate attention.
+- North West: This region also shows a significant decrease in revenue in Year 2015 compare to previous year.
+- South East: This region also recorded lower revenue in year 2015 compared to year 2014.
+- South South: This region also shows a significant drop in revenue in year 2015 compare to preious year.
+- South West: This region was the second best in revenue generation in year 2014 but there was a decline in revenue in year 2015. The reasons might be because of increased in competitors or consumers' change in taste.
+In short, the revenue recorded in each region decline in year 2015 compared to year 2014 which suggested a noticeable challenge is making/improving sales.
 
-![Screenshot (55)](https://github.com/user-attachments/assets/982d6f2a-656a-4489-aabf-c2291dd51153)
+
+
+
 
 
 
