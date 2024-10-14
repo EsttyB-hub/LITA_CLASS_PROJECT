@@ -35,10 +35,25 @@ Average revenue: = Total Revenue / unit sold
 The methods utilized in this project include Data Analysis and Data Visualization.
 The tools used are:
 - Microsoft Excel: to analyse the datasets.
-- Pivot tabl: to summarized the data for easy presentation and understanding to the users.
-- Bar chart: to visually represent the project been worked on.
+- Pivot table: to summarized the data for easy presentation and understanding to the users.
+- Bar chart & Pie Chart: to visually represent the project been worked on.
 
 ### VISUAL ANALYSIS
 1. Revenue by Region
 
 ![Screenshot (40)](https://github.com/user-attachments/assets/ae0e563f-f721-4219-bb29-4539e1a3dfb7)
+
+####Charts for Year 2014 for Comparison
+
+![Screenshot (57)](https://github.com/user-attachments/assets/8bf562e5-ac24-416d-9f8c-f6362920312f)
+
+![Screenshot (56)](https://github.com/user-attachments/assets/267652dd-cfbc-45e3-8e5a-ce93b32c01f8)
+
+####Charts for Year 2015
+
+![Screenshot (54)](https://github.com/user-attachments/assets/5c4e017b-314b-43d2-a4c5-10b7117fad6c)
+
+![Screenshot (55)](https://github.com/user-attachments/assets/982d6f2a-656a-4489-aabf-c2291dd51153)
+
+
+
