@@ -41,7 +41,8 @@ The tools used are:
 ### VISUAL ANALYSIS
 1. Revenue by Region
 
-![Screenshot (40)](https://github.com/user-attachments/assets/ae0e563f-f721-4219-bb29-4539e1a3dfb7)
+![Screenshot (40)](https://github.com/user-attachments/assets/1e6809e3-c5fe-4d6a-a02e-070cc79eefd0)
+
 
 #### Charts for Year 2014 for Comparison
 
