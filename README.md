@@ -29,10 +29,12 @@ This project is aimed at addressing the following:
 
 ### FORMULA USED
 Total revenue: = SUM (of all the revenue) or Alt = enter
+
 Average revenue: = Total Revenue / unit sold
 
 ### TOOLS AND METHOD USED
 The methods utilized in this project include Data Analysis and Data Visualization.
+
 The tools used are:
 - Microsoft Excel: to analyse the datasets.
 - Pivot table: to summarized the data for easy presentation and understanding to the users.
