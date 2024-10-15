@@ -2,10 +2,22 @@
 
 ## REVENUE DATA ANALYSIS PROJECT
 
+[Project Overview](#Project-Overiew)
+
+[Data Analyzed](#Data-Analyzed)
+
+[Project Objectives](#Project-Objectives)
+
+[Formula used](#Formula-used)
+
+[Tools and Method Used](#Tools-and-method-used)
+
+[Visual Analysis](#Visual-Analysis)
+
 ### PROJECT OVERVIEW
 This project covers the revenue data collated from different regions. The data collected is aimed at analysing the revenue recorded in different regions, market and store, the line of business of each store, the Model of their products, the unit of the product sold over different periods. The analysis is to determine the sales performance of each region over a financial period.
 
-### DATA ANALYSED
+### DATA ANALYZED
 The following datasets were analysed:
 1. Region: This represent the geographical area where the stores operate.
 2. Market: This represent the market place within a particular region.
@@ -68,6 +80,27 @@ The tools used are:
 - South West: This region was the second best in revenue generation in year 2014 but there was a decline in revenue in year 2015. The reasons might be because of increased in competitors or consumers' change in taste.
   
 In short, the revenue recorded in each region decline in year 2015 compared to year 2014 which suggested a noticeable challenge in making/improving sales.
+
+2. Region by Unit sold
+
+![Screenshot (40)](https://github.com/user-attachments/assets/37596a3a-5a96-4dce-8bd6-60eb333ebc63)
+
+Charts for the Year 2014
+
+![Screenshot (61)](https://github.com/user-attachments/assets/9bb73eca-78f0-48f2-aea3-576d8f72ff55)
+
+![Screenshot (60)](https://github.com/user-attachments/assets/2e5892c9-f9c7-4712-96b6-032d0df3a44d)
+
+Charts for the Year 2015
+
+![Screenshot (58)](https://github.com/user-attachments/assets/070645cf-9264-448a-aedf-19f983773f72)
+
+![Screenshot (59)](https://github.com/user-attachments/assets/d906c175-ed5b-4c52-a340-38d786bca215)
+
+
+
+
+
 
 
 
